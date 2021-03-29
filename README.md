@@ -1,14 +1,14 @@
 ## Collaboration with Git!!
 
-some text
+some text.
 
 
 
-some more text
+some more text!
 
 
 
-something else
+something else.
 
 
 
