@@ -1,4 +1,4 @@
-## Collaboration with Git!!
+## Working with Git!!
 
 some text.
 
